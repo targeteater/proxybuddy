@@ -49,5 +49,11 @@ pip install requests colorama
 python proxybuddy.py
 ```
 
+## 😊 Heres some other proxy scrapers we have that use different proxy apis (these arent so good since they have many non working proxys)
+
+```shell
+python proxylistmethod.py
+```
+
 ## 🧸 Contributing
 Thank you for considering contributing to this project. Every contribution will be carefully reviewed.
